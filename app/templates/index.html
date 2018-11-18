@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="container">
+  <div class="row"> 
+    <div class="col-md-2">
+      <aside class="filters">
+        <div class="panel panel-default">
+          <div class="panel-heading">Filter Search</div>
+          <div class="panel-body">
+            <form>
+              <div class="form-group">
+                <ul class="list-group" id="filters">
+                  <li class="filter list-group-item">
+                    <label>choose your city</label>
+                    <select class="form-control" id="searchby" onchange= "getData(this.value)"  > 
+                      <option value="" selected disabled>Select City</option>
+                      <option value="Austin">Austin</option>
+                      <option value="Dallas">Dallas</option>
+                      <option value="Houston">Houston</option>
+                    </select>
+                  </li>
+                  <li class="filter list-group-item">
+                      <label>Housing Type</label>
+                      <select class="form-control" id="housesearch" onchange= "optionchenged(this.value)"  > 
+                          <option value="" selected disabled>Buy or Rent</option>
+                          <option value="Buy">Buy</option>
+                          <option value="Rent">Rent</option>
+                        </select>
+                        <label for="price">Enter max price</label>
+                        <input class="form-control" id="price" type="text" placeholder="$">
+                        <br>
+                        <label for="option">Check if Important</label>
+                        <div class="checkbox">
+                        <label><input type="checkbox" id="school" onclick="handlecheck()" value="">School</label>
+                      </div>
+                      <div class="checkbox">
+                          <label><input type="checkbox" id="night" value="">Night life</label>
+                        </div>
+                        <div class="checkbox">
+                            <label><input type="checkbox" id="shopping" value="">Shopping</label>
+                          </div>
+                  </li>
+                </ul>
+              </div>
+              <button id="filter-btn" type="submit" class="btn btn-default">Submit</button><br/>
+            </form>
+          </div>
+        </div>
+      </aside>
+    </div>
+    <div class="col-md-10">
+      <div id="map">
+      </div>         
+    </div>
+  </div>
+</div>
+{% endblock %}

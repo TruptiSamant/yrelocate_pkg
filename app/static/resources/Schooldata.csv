@@ -1,0 +1,700 @@
+,gsId,name,city,state,address,lat,lon,type,gsRating,Zipcode
+0,25212,4Points Academy,Austin,TX,"5145 Ranch Road 620 North, 
+Austin, TX  78732",30.389547,-97.88448,private,,78732
+1,11998,ACE Academy,Austin,TX,"3901 Shoal Creek Boulevard, 
+Austin, TX  78756",30.308155,-97.74721,private,,78756
+2,25177,AESA Prep Academy,Austin,TX,"14101 Canonade, 
+Austin, TX  78737",30.199083,-98.00528,private,,78737
+3,18793,AHB Community School,Austin,TX,"4001 Speedway Ave, 
+Austin, TX  78751",30.30318,-97.73161,private,,78751
+4,25183,Abrome,Austin,TX,"10201 Aqua Azul Ct, 
+Austin, TX  78733",30.33515,-97.87648,private,,78733
+5,20103,Acton Academy,Austin,TX,"2201 Alexander Avenue, 
+Austin, TX  78722",30.284405,-97.70996,private,,78722
+6,24844,Adult Transition Services,Austin,TX,"1020 Walsh Tarlton Lane, 
+Austin, TX  78746",30.272945,-97.802,public,,78746
+7,9663,Akins High School,Austin,TX,"10701 South 1st Street, 
+Austin, TX  78748",30.148985,-97.80186,public,,78748
+8,597,Allan Elementary School,Austin,TX,"4900 Gonzales Street, 
+Austin, TX  78702",30.255674,-97.69715,public,4.0,78702
+9,519,Allison Elementary School,Austin,TX,"515 Vargas Road, 
+Austin, TX  78741",30.235785,-97.69203,public,,78741
+10,24802,Altamira Academy,Austin,TX,"6405 South Interstate 35 Frontage Road, 
+Austin, TX  78744",30.191423,-97.767136,charter,7.0,78744
+11,18841,Alternative Learning Center,Austin,TX,"900 Neal Street, 
+Austin, TX  78702",30.268435,-97.71007,public,3.0,78702
+12,520,Anderson High School,Austin,TX,"8403 Mesa Drive, 
+Austin, TX  78759",30.37575,-97.75371,public,,78759
+13,5869,Anderson Mill Elementary School,Austin,TX,"10610 Salt Mill Hollow, 
+Austin, TX  78750",30.452835,-97.806854,public,8.0,78750
+14,521,Andrews Elementary School,Austin,TX,"6801 Northeast Drive, 
+Austin, TX  78723",30.317554,-97.679665,public,7.0,78723
+15,24723,Athlos Leadership Academy- Austin,Austin,TX,"3711 Shoreline Drive, 
+Austin, TX  78728",30.457558,-97.688,charter,4.0,78728
+16,20403,Austin Achieve Public Schools,Austin,TX,"5908 Manor Road, 
+Austin, TX  78723",30.307661,-97.680504,charter,,78723
+17,24327,Austin Children's Montessori,Austin,TX,"8807 Manchaca Road, 
+Austin, TX  78748",30.18366,-97.817055,private,4.0,78748
+18,19663,Austin City Academy,Austin,TX,"P.O. Box 92737, 
+Austin, TX  78709",30.2669,-97.7428,private,,78709
+19,10900,Austin Discovery School,Austin,TX,"9303 Farm to Market 969, 
+Austin, TX  78724",30.267902,-97.63531,charter,,78724
+20,522,Austin High School,Austin,TX,"1715 West Cesar Chavez Street, 
+Austin, TX  78703",30.273598,-97.76814,public,4.0,78703
+21,10049,Austin International School,Austin,TX,"4001 Adelphi Lane, 
+Austin, TX  78727",30.42242,-97.71807,private,7.0,78727
+22,8096,Austin Jewish Academy,Austin,TX,"7300 Hart Lane, 
+Austin, TX  78731",30.357513,-97.75502,private,,78731
+23,19664,Austin Montessori Great Northern Campus,Austin,TX,"5006 Sunset Trail, 
+Austin, TX  78745",30.227676,-97.80505,private,,78745
+24,7587,Austin Montessori School,Austin,TX,"5006 Sunset Trail, 
+Austin, TX  78745",30.227676,-97.80505,private,,78745
+25,24857,Austin Oaks,Austin,TX,"1407 West Stassney Lane, 
+Austin, TX  78745",30.21135,-97.792694,charter,,78745
+26,8422,Austin Peace Academy,Austin,TX,"5110 Manor Road, 
+Austin, TX  78723",30.299353,-97.686516,private,,78723
+27,7598,Austin SDA Junior Academy,Austin,TX,"301 W Anderson Ln, 
+Austin, TX  78752",30.344398,-97.70773,private,,78752
+28,10849,Austin St Hospital,Austin,TX,"1111 West 6th Street, 
+Austin, TX  78703",30.272375,-97.756516,public,,78703
+29,24785,Austin Village Academy,Austin,TX,"4105 Manchaca Rd., 
+Austin, TX  78704",30.231419,-97.787,private,,78704
+30,7925,Austin Waldorf School,Austin,TX,"8700 South View Road, 
+Austin, TX  78737",30.231415,-97.912796,private,,78737
+31,601,Bailey Middle School,Austin,TX,"4020 Lost Oasis Hollow, 
+Austin, TX  78739",30.164225,-97.87242,public,,78739
+32,8068,Bais Menachem Hebrew Academy,Austin,TX,"2127 West Parmer Lane, 
+Austin, TX  78727",30.41608,-97.69663,private,6.0,78727
+33,10790,Baldwin Elementary School,Austin,TX,"12200 Meridian Park Boulevard, 
+Austin, TX  78739",30.18489,-97.923454,public,,78739
+34,7781,Bannockburn Christian Academy,Austin,TX,"7100 Brodie Ln, 
+Austin, TX  78745",30.212337,-97.8324,private,8.0,78745
+35,8618,Baranoff Elementary School,Austin,TX,"12009 Buckingham Gate Road, 
+Austin, TX  78748",30.153902,-97.852165,public,,78748
+36,523,Barrington Elementary School,Austin,TX,"400 Cooper Drive, 
+Austin, TX  78753",30.360529,-97.69607,public,9.0,78753
+37,2209,Barton Creek Elementary School,Austin,TX,"1370 Patterson Road, 
+Austin, TX  78733",30.303408,-97.87958,public,4.0,78733
+38,524,Barton Hills Elementary School,Austin,TX,"2108 Barton Hills Drive, 
+Austin, TX  78704",30.254395,-97.783356,public,10.0,78704
+39,2035,Baty Elementary School,Austin,TX,"2101 Faro Drive, 
+Austin, TX  78741",30.227068,-97.712814,public,9.0,78741
+40,525,Becker Elementary School,Austin,TX,"906 West Milton Street, 
+Austin, TX  78704",30.250395,-97.75945,public,3.0,78704
+41,526,Bedichek Middle School,Austin,TX,"6800 Bill Hughes Road, 
+Austin, TX  78745",30.196163,-97.78622,public,7.0,78745
+42,8717,Bee Cave Elementary School,Austin,TX,"3322 Ranch Road 620 South, 
+Austin, TX  78738",30.328274,-97.97106,public,2.0,78738
+43,527,Blackshear Elementary School,Austin,TX,"1712 East 11th Street, 
+Austin, TX  78702",30.266968,-97.72217,public,8.0,78702
+44,528,Blanton Elementary School,Austin,TX,"5408 Westminster Drive, 
+Austin, TX  78723",30.30693,-97.69063,public,8.0,78723
+45,10788,Blazier Elementary School,Austin,TX,"8601 Nuckols Crossing Road, 
+Austin, TX  78744",30.158,-97.754295,public,5.0,78744
+46,16170,Bluebonnet Montessori School of Lakeway,Austin,TX,"15099 Debba Drive, 
+Austin, TX  78734",30.373077,-97.93844,private,7.0,78734
+47,4570,Bluebonnet Trail Elementary School,Austin,TX,"11316 Farmhaven Road, 
+Austin, TX  78754",30.35188,-97.6174,public,,78754
+48,608,Boone Elementary School,Austin,TX,"8101 Croftwood Drive, 
+Austin, TX  78749",30.203724,-97.840225,public,6.0,78749
+49,613,Bowie High School,Austin,TX,"4103 West Slaughter Lane, 
+Austin, TX  78749",30.186369,-97.85873,public,8.0,78749
+50,12308,Boys Menachem Hebrew Academy,Austin,TX,"7010 Village Center Dr, 
+Austin, TX  78731",30.35242,-97.7568,private,9.0,78731
+51,8479,Brentwood Christian School,Austin,TX,"11908 N Lamar Blvd, 
+Austin, TX  78753",30.39087,-97.68241,private,,78753
+52,12499,Brentwood Christian Secondary School,Austin,TX,"11908 N Lamar Blvd, 
+Austin, TX  78753",30.39087,-97.68241,private,,78753
+53,529,Brentwood Elementary School,Austin,TX,"6700 Arroyo Seco, 
+Austin, TX  78757",30.33964,-97.731445,public,,78757
+54,2208,Bridge Point El,Austin,TX,"6401 Cedar Street, 
+Austin, TX  78746",30.340866,-97.80639,public,7.0,78746
+55,530,Brooke Elementary School,Austin,TX,"3100 East 4th Street, 
+Austin, TX  78702",30.254822,-97.70851,public,10.0,78702
+56,531,Brown Elementary School,Austin,TX,"505 West Anderson Lane, 
+Austin, TX  78752",30.344769,-97.71034,public,3.0,78752
+57,532,Bryker Woods Elementary School,Austin,TX,"3309 Kerbey Lane, 
+Austin, TX  78703",30.304869,-97.750626,public,4.0,78703
+58,533,Burnet Middle School,Austin,TX,"8401 Hathaway Drive, 
+Austin, TX  78757",30.365074,-97.7256,public,9.0,78757
+59,534,Campbell Elementary School,Austin,TX,"2613 Rogers Avenue, 
+Austin, TX  78722",30.282291,-97.71334,public,2.0,78722
+60,5901,Canyon Creek Elementary School,Austin,TX,"10210 Ember Glen Drive, 
+Austin, TX  78726",30.436604,-97.82424,public,4.0,78726
+61,10132,Canyon Ridge Middle School,Austin,TX,"12601 Country Trails Lane, 
+Austin, TX  78732",30.365335,-97.90305,public,10.0,78732
+62,5885,Canyon Vista Middle School,Austin,TX,"8455 Spicewood Springs Road, 
+Austin, TX  78759",30.428354,-97.78429,public,10.0,78759
+63,19670,Capitol City Baptist Church,Austin,TX,"1300 Redd St, 
+Austin, TX  78745",30.224003,-97.78243,private,10.0,78745
+64,12241,Capitol School Of Austin,Austin,TX,"2011 West Koenig Lane, 
+Austin, TX  78756",30.333742,-97.73906,private,,78756
+65,8616,Casey Elementary School,Austin,TX,"9400 Texas Oaks Drive, 
+Austin, TX  78748",30.177267,-97.81461,public,,78748
+66,535,Casis Elementary School,Austin,TX,"2710 Exposition Boulevard, 
+Austin, TX  78703",30.304344,-97.76505,public,4.0,78703
+67,12290,Casner Christian Academy,Austin,TX,"3838 Steck Avenue, 
+Austin, TX  78759",30.373693,-97.75005,private,10.0,78759
+68,7301,Cathedral School Of St Mary,Austin,TX,"910 San Jacinto Boulevard, 
+Austin, TX  78701",30.270283,-97.73932,private,,78701
+69,2201,Cedar Creek Elementary School,Austin,TX,"3301 Pinnacle Road, 
+Austin, TX  78746",30.269161,-97.80487,public,,78746
+70,5880,Cedar Valley Middle School,Austin,TX,"8139 Racine Trail, 
+Austin, TX  78717",30.492628,-97.73422,public,9.0,78717
+71,25310,Cedars Academy Next Generation H S at Highland,Austin,TX,"6700 Middle Fiskville Road, 
+Austin, TX  78752",30.329008,-97.707436,charter,10.0,78752
+72,9144,Cedars International Academy,Austin,TX,"8416 North Interstate Highway 35, 
+Austin, TX  78753",30.348295,-97.695366,charter,8.0,78753
+73,13016,Cedars Montessori School,Austin,TX,"9704 Circle Drive, 
+Austin, TX  78736",30.244003,-97.923386,private,3.0,78736
+74,25196,Challenger School - Avery Ranch,Austin,TX,"15101 Avery Ranch Boulevard, 
+Austin, TX  78717",30.497791,-97.773125,private,,78717
+75,99,Chaparral Star Academy,Austin,TX,"14046 Summit Drive, 
+Austin, TX  78728",30.43782,-97.691895,charter,,78728
+76,12235,City School,Austin,TX,"1844 Teri Rd, 
+Austin, TX  78741",30.204332,-97.75476,private,9.0,78741
+77,10787,Clayton Elementary School,Austin,TX,"7525 La Crosse Avenue, 
+Austin, TX  78739",30.194855,-97.906334,public,,78739
+78,20125,Clearview Sudbury School,Austin,TX,"1507 Wilshire Blvd., 
+Austin, TX  78722",30.29586,-97.71111,private,10.0,78722
+79,536,Cook Elementary School,Austin,TX,"1511 Cripple Creek Drive, 
+Austin, TX  78758",30.378002,-97.70482,public,,78758
+80,5424,Copperfield Elementary School,Austin,TX,"12135 Thompkins Drive, 
+Austin, TX  78753",30.388332,-97.65998,public,5.0,78753
+81,606,Covington Middle School,Austin,TX,"3700 Convict Hill Road, 
+Austin, TX  78749",30.211359,-97.83413,public,6.0,78749
+82,9146,Cowan Elementary School,Austin,TX,"2817 Kentish Drive, 
+Austin, TX  78748",30.188688,-97.83348,public,5.0,78748
+83,11843,Creedmoor Elementary School,Austin,TX,"5604 Farm to Market Road 1327, 
+Austin, TX  78747",30.090845,-97.72035,public,9.0,78747
+84,537,Crockett High School,Austin,TX,"5601 Manchaca Road, 
+Austin, TX  78745",30.214724,-97.79739,public,3.0,78745
+85,538,Cunningham Elementary School,Austin,TX,"2200 Berkeley Avenue, 
+Austin, TX  78745",30.210476,-97.80581,public,4.0,78745
+86,18842,Daep- El,Austin,TX,"906 West Milton Street, 
+Austin, TX  78704",30.250395,-97.75945,public,2.0,78704
+87,19852,Dailey Middle School,Austin,TX,"14000 Westall Street, 
+Austin, TX  78725",30.243408,-97.59058,public,,78725
+88,595,Davis Elementary School,Austin,TX,"5214 Duval Road, 
+Austin, TX  78727",30.418247,-97.74218,public,3.0,78727
+89,539,Dawson Elementary School,Austin,TX,"3001 South 1st Street, 
+Austin, TX  78704",30.234062,-97.76337,public,6.0,78704
+90,8733,Decker Elementary School,Austin,TX,"8500 Decker Lane, 
+Austin, TX  78724",30.311619,-97.6169,public,6.0,78724
+91,5894,Deerpark Middle School,Austin,TX,"8849 Anderson Mill Road, 
+Austin, TX  78729",30.452366,-97.77288,public,4.0,78729
+92,9931,Delco Primary School,Austin,TX,"12900 Dessau Road, 
+Austin, TX  78754",30.397984,-97.64358,public,6.0,78754
+93,24678,Dell Children's Medical Center,Austin,TX,"4900 Mueller Boulevard, 
+Austin, TX  78723",30.303455,-97.707344,public,,78723
+94,5413,Dessau Elementary School,Austin,TX,"1501 Dessau Ridge Lane, 
+Austin, TX  78754",30.401651,-97.643936,public,,78754
+95,9473,Dessau Middle School,Austin,TX,"12900 Dessau Road, 
+Austin, TX  78754",30.397984,-97.64358,public,5.0,78754
+96,540,Dobie Middle School,Austin,TX,"1200 East Rundberg Lane, 
+Austin, TX  78753",30.35455,-97.679375,public,3.0,78753
+97,541,Doss Elementary School,Austin,TX,"7005 Northledge Drive, 
+Austin, TX  78731",30.356087,-97.76281,public,3.0,78731
+98,18848,Eastside Memorial High School,Austin,TX,"1012 Arthur Stiles Road, 
+Austin, TX  78721",30.257113,-97.68206,public,9.0,78721
+99,78,Eden Park Academy,Austin,TX,"6215 Manchaca Road, 
+Austin, TX  78745",30.209324,-97.80313,charter,2.0,78745
+100,18843,El Daep,Austin,TX,"13414 Broadmeade Avenue, 
+Austin, TX  78729",30.470728,-97.78183,public,6.0,78729
+101,19534,Elsa England Elementary School,Austin,TX,"8801 Pearson Ranch Road, 
+Austin, TX  78717",30.49369,-97.750725,public,,78717
+102,25268,Emergent Academy,Austin,TX,"1044 Liberty Park Drive, 
+Austin, TX  78746",30.266872,-97.78992,private,10.0,78746
+103,25447,Excel Center Lockhart,Austin,TX,"1015 Norwood Park Boulevard, 
+Austin, TX  78753",30.339088,-97.69408,charter,,78753
+104,5872,Forest North Elementary School,Austin,TX,"13414 Broadmeade Avenue, 
+Austin, TX  78729",30.470728,-97.78183,public,,78729
+105,19876,Four Points Middle School,Austin,TX,"9700 McNeil Drive, 
+Austin, TX  78750",30.3975,-97.829254,public,5.0,78750
+106,542,Fulmore Middle School,Austin,TX,"201 East Mary Street, 
+Austin, TX  78704",30.243927,-97.750465,public,9.0,78704
+107,24777,Fusion Academy Austin,Austin,TX,"4701 Bee Caves Road, 
+Austin, TX  78746",30.28804,-97.81678,private,5.0,78746
+108,614,Galindo Elementary School,Austin,TX,"3800 South 2nd Street, 
+Austin, TX  78704",30.229517,-97.7719,public,,78704
+109,24939,Garcia Ymla,Austin,TX,"7414 Johnny Morris Road, 
+Austin, TX  78724",30.311398,-97.64303,public,3.0,78724
+110,618,Garza Independence High School,Austin,TX,"1600 Chicon Street, 
+Austin, TX  78702",30.277237,-97.72139,public,3.0,78702
+111,9366,George M Kometzky School,Austin,TX,"2200 East 6th Street, 
+Austin, TX  78702",30.260305,-97.71761,charter,,78702
+112,11996,Girls' School Of Austin,Austin,TX,"2007 McCall Road, 
+Austin, TX  78703",30.292788,-97.76355,private,,78703
+113,10746,Gorzycki Middle School,Austin,TX,"7412 West Slaughter Lane, 
+Austin, TX  78749",30.214663,-97.89199,public,,78749
+114,543,Govalle Elementary School,Austin,TX,"3601 Del Valle Street, 
+Austin, TX  78617",30.210512,-97.65354,public,9.0,78617
+115,544,Graham Elementary School,Austin,TX,"11211 Tom Adams Drive, 
+Austin, TX  78753",30.37236,-97.66886,public,1.0,78753
+116,11938,Grandview Hills Elementary School,Austin,TX,"12024 Vista Parke Drive, 
+Austin, TX  78726",30.415436,-97.85333,public,8.0,78726
+117,24371,Greater Calvary Academy,Austin,TX,"6510 Berkman Drive, 
+Austin, TX  78723",30.319225,-97.69028,private,6.0,78723
+118,11581,Griffin School,Austin,TX,"5001 Evans Ave., 
+Austin, TX  78751",30.312716,-97.71971,private,,78751
+119,10789,Guerrero Thompson,Austin,TX,"102 East Rundberg Lane, 
+Austin, TX  78753",30.363888,-97.691666,public,,78753
+120,545,Gullett Elementary School,Austin,TX,"6310 Treadwell Boulevard, 
+Austin, TX  78757",30.343542,-97.74867,public,7.0,78757
+121,19893,Harmony School of Excellence - Austin,Austin,TX,"2100 East Saint Elmo Road, 
+Austin, TX  78744",30.210432,-97.746735,charter,10.0,78744
+122,24798,Harmony School of Innovation,Austin,TX,"2124 East Saint Elmo Road, 
+Austin, TX  78744",30.21006,-97.74532,charter,4.0,78744
+123,20112,Harmony School of Political Science and Communication - Austin,Austin,TX,"13415 North FM 620, 
+Austin, TX  78717",30.470375,-97.786705,charter,6.0,78717
+124,20397,Harmony School of Science - Austin,Austin,TX,"11800 Stonehollow Drive, 
+Austin, TX  78758",30.400635,-97.70883,charter,8.0,78758
+125,9423,Harmony Science Academy - Austin,Austin,TX,"930 East Rundberg Lane, 
+Austin, TX  78753",30.357164,-97.684784,charter,4.0,78753
+126,546,Harris Elementary School,Austin,TX,"1711 Wheless Lane, 
+Austin, TX  78723",30.314829,-97.690765,public,5.0,78723
+127,619,Hart Elementary School,Austin,TX,"8301 Furness Drive, 
+Austin, TX  78753",30.342451,-97.68871,public,4.0,78753
+128,10669,Headwaters School,Austin,TX,"801 Rio Grande Street, 
+Austin, TX  78701",30.27195,-97.74842,private,7.0,78701
+129,18838,Helping Hand,Austin,TX,"3804 Avenue B, 
+Austin, TX  78751",30.302364,-97.73645,charter,,78751
+130,547,Highland Park Elementary School,Austin,TX,"4900 Fairview Drive, 
+Austin, TX  78731",30.330692,-97.76005,public,,78731
+131,8055,Hill Country Christian School,Austin,TX,"12124 Ranch Rd 620 N, 
+Austin, TX  78750",30.461445,-97.81817,private,9.0,78750
+132,2203,Hill Country Middle School,Austin,TX,"1300 Walsh Tarlton Lane, 
+Austin, TX  78746",30.27101,-97.80366,public,,78746
+133,548,Hill Elementary School,Austin,TX,"8601 Tallwood Drive, 
+Austin, TX  78759",30.376625,-97.74854,public,10.0,78759
+134,2034,Hillcrest Elementary School,Austin,TX,"6910 East William Cannon Drive, 
+Austin, TX  78744",30.16541,-97.729095,public,8.0,78744
+135,10514,Holy Family Catholic School,Austin,TX,"9400 Neenah Avenue, 
+Austin, TX  78717",30.489832,-97.76092,private,2.0,78717
+136,7545,Holy Word Christian Academy,Austin,TX,"10601 Bluff Bend Drive, 
+Austin, TX  78753",30.3685,-97.675385,private,,78753
+137,24378,Hope Children's Center,Austin,TX,"11512 Olson Drive, 
+Austin, TX  78750",30.445484,-97.806114,private,,78750
+138,7492,Hope Lutheran School,Austin,TX,"6414 N Hampton Dr, 
+Austin, TX  78723",30.31469,-97.6811,private,,78723
+139,2036,Hornsby-Dunlap Elementary School,Austin,TX,"13901 North FM 620, 
+Austin, TX  78717",30.475092,-97.7674,public,,78717
+140,18785,House Sparrows Academy,Austin,TX,"8432 Jamestown Drive, 
+Austin, TX  78758",30.355415,-97.709785,private,3.0,78758
+141,549,Houston Elementary School,Austin,TX,"5409 Ponciana Drive, 
+Austin, TX  78744",30.196468,-97.75507,public,,78744
+142,9471,Hudson Bend Middle School,Austin,TX,"3322 Ranch Road 620 South, 
+Austin, TX  78738",30.327839,-97.96536,public,3.0,78738
+143,8367,Huntington-Surrey High School,Austin,TX,"5206 Balcones Drive, 
+Austin, TX  78756",30.318382,-97.7376,private,9.0,78756
+144,8339,Hyde Park Baptist Elementary School,Austin,TX,"3901 Speedway, 
+Austin, TX  78751",30.302164,-97.731804,private,,78751
+145,12476,Hyde Park Baptist High School,Austin,TX,"11400 North Mopac, 
+Austin, TX  78759",30.40086,-97.730064,private,,78759
+146,8352,Hyde Park Baptist School,Austin,TX,"3901 Speedway, 
+Austin, TX  78751",30.302217,-97.73187,private,,78751
+147,24649,IDEA Allan College Preparatory,Austin,TX,"1701 Vargas Road, 
+Austin, TX  78741",30.226158,-97.699524,charter,,78741
+148,24980,IDEA Rundberg Academy,Austin,TX,"9504 North Interstate 35 Frontage Road, 
+Austin, TX  78753",30.360958,-97.687805,charter,7.0,78753
+149,24981,IDEA Rundberg College Preparatory,Austin,TX,"9504 North Interstate 35 Frontage Road, 
+Austin, TX  78753",30.360958,-97.687805,charter,6.0,78753
+150,24651,Idea Allan Academy,Austin,TX,"1701 Vargas Road, 
+Austin, TX  78741",30.226158,-97.699524,charter,6.0,78741
+151,25437,Idea Bluff Springs Academy,Austin,TX,"1700 East Slaughter Lane, 
+Austin, TX  78744",30.153843,-97.769135,charter,6.0,78744
+152,25331,Idea Bluff Springs College Preparatory,Austin,TX,"1700 East Slaughter Lane, 
+Austin, TX  78744",30.153843,-97.769135,charter,,78744
+153,10730,International High School,Austin,TX,"1012 Arthur Stiles Road, 
+Austin, TX  78721",30.257113,-97.68206,public,6.0,78721
+154,24382,International Montessori House,Austin,TX,"7020 Village Center Drive, 
+Austin, TX  78731",30.352783,-97.75659,private,,78731
+155,20854,International School of Texas,Austin,TX,"4402 Hudson Bend Road, 
+Austin, TX  78734",30.403622,-97.92939,private,,78734
+156,20667,Jackie's Performing Arts & Private Education,Austin,TX,"11530 Manchaca Road, 
+Austin, TX  78748",30.152407,-97.83523,private,,78748
+157,9137,Joe Lee Johnson Elementary School,Austin,TX,"2800 Sauls Drive, 
+Austin, TX  78728",30.45655,-97.68175,public,,78728
+158,5420,John B Connally High School,Austin,TX,"13212 North Lamar Boulevard, 
+Austin, TX  78753",30.41821,-97.676346,public,5.0,78753
+159,9117,John P Ojeda J High School,Austin,TX,"4900 McKinney Falls Parkway, 
+Austin, TX  78744",30.190788,-97.71197,public,4.0,78744
+160,5868,Jollyville Elementary School,Austin,TX,"6720 Corpus Christi Drive, 
+Austin, TX  78729",30.444317,-97.750755,public,2.0,78729
+161,594,Jordan Elementary School,Austin,TX,"6711 Johnny Morris Road, 
+Austin, TX  78724",30.301088,-97.646774,public,6.0,78724
+162,20411,Joseph Gilbert Elementary School,Austin,TX,"5412 Gilbert Road, 
+Austin, TX  78724",30.258514,-97.59251,public,5.0,78724
+163,552,Joslin Elementary School,Austin,TX,"4500 Manchaca Road, 
+Austin, TX  78745",30.228037,-97.79054,public,4.0,78745
+164,20118,K12 International Academy,Austin,TX,"1701 N. Congress Avenue, 
+Austin, TX  78701",30.278719,-97.73881,private,4.0,78701
+165,25309,KIPP Austin Brave,Austin,TX,"8509 Farm to Market 969, 
+Austin, TX  78724",30.27235,-97.638405,charter,,78724
+166,24677,KIPP Austin Leadership Elementary School,Austin,TX,"5107 South Interstate 35 Frontage Road, 
+Austin, TX  78744",30.204409,-97.75847,charter,,78744
+167,24676,KIPP Austin Obras,Austin,TX,"5107 South Interstate 35 Frontage Road, 
+Austin, TX  78744",30.204409,-97.75847,charter,3.0,78744
+168,10048,Kamico Academy,Austin,TX,"4413 Spicewood Springs Rd, 
+Austin, TX  78759",30.3727,-97.7586,private,3.0,78759
+169,5874,Kathy Caraway Elementary School,Austin,TX,"11104 Oak View Drive, 
+Austin, TX  78759",30.419579,-97.7696,public,,78759
+170,605,Kealing Middle School,Austin,TX,"1607 Pennsylvania Avenue, 
+Austin, TX  78702",30.270937,-97.72178,public,8.0,78702
+171,596,Kiker Elementary School,Austin,TX,"5913 La Crosse Avenue, 
+Austin, TX  78739",30.191557,-97.881256,public,8.0,78739
+172,19925,Kipp Austin Academy Of Arts & Lett,Austin,TX,"8509 Farm to Market 969, 
+Austin, TX  78724",30.27235,-97.638405,charter,10.0,78724
+173,20398,Kipp Austin Beacon Prep,Austin,TX,"8509 Farm to Market 969, 
+Austin, TX  78724",30.27235,-97.638405,charter,7.0,78724
+174,10705,Kipp Austin College Prep,Austin,TX,"9509 Farm to Market 969, 
+Austin, TX  78724",30.270355,-97.63019,charter,4.0,78724
+175,12099,Kipp Austin Collegiate,Austin,TX,"8509 Farm to Market 969, 
+Austin, TX  78724",30.27235,-97.638405,charter,4.0,78724
+176,20400,Kipp Austin Comunidad,Austin,TX,"8509 Farm to Market 969, 
+Austin, TX  78724",30.27235,-97.638405,charter,7.0,78724
+177,20401,Kipp Austin Connections Elementary School,Austin,TX,"8509 Farm to Market 969, 
+Austin, TX  78724",30.27235,-97.638405,charter,4.0,78724
+178,20399,Kipp Austin Vista Middle Schools,Austin,TX,"8509 Farm to Market 969, 
+Austin, TX  78724",30.27235,-97.638405,charter,3.0,78724
+179,7627,Kirby Hall School,Austin,TX,"306 W 29th St, 
+Austin, TX  78705",30.294388,-97.74036,private,4.0,78705
+180,24837,Ko School + Incubator,Austin,TX,"1701 Toomey Road, 
+Austin, TX  78704",30.264433,-97.76164,private,,78704
+181,610,Kocurek Elementary School,Austin,TX,"9800 Curlew Drive, 
+Austin, TX  78748",30.177746,-97.83525,public,,78748
+182,25584,Kozmetsky At Rathgeber Village,Austin,TX,"4800 Manor Road, 
+Austin, TX  78723",30.296387,-97.68996,charter,4.0,78723
+183,4147,Lago Vista Elementary School,Austin,TX,"P O Box 4929, 
+Austin, TX  78734",30.385658,-97.95364,public,,78734
+184,4148,Lago Vista High School,Austin,TX,"P O Box 4929, 
+Austin, TX  78734",30.385658,-97.95364,public,7.0,78734
+185,4149,Lago Vista Middle School,Austin,TX,"P O Box 4929, 
+Austin, TX  78734",30.385658,-97.95364,public,6.0,78734
+186,9933,Lake Pointe Elementary School,Austin,TX,"3322 Ranch Road 620 South, 
+Austin, TX  78738",30.327839,-97.96536,public,5.0,78738
+187,4157,Lake Travis Elementary School,Austin,TX,"3322 Ranch Road 620 South, 
+Austin, TX  78738",30.327839,-97.96536,public,10.0,78738
+188,4158,Lake Travis High School,Austin,TX,"3324 Ranch Road 620 South, 
+Austin, TX  78738",30.324848,-97.96807,public,8.0,78738
+189,24753,Lake Travis STEM Academy,Austin,TX,"3315 El Salido Pkwy, 
+Austin, TX  78726",30.360304,-97.69251,private,9.0,78726
+190,4156,Lakeway Elementary School,Austin,TX,"3322 Ranch Road 620 South, 
+Austin, TX  78738",30.327839,-97.96536,public,,78738
+191,553,Lamar Middle School,Austin,TX,"6201 Wynona Avenue, 
+Austin, TX  78757",30.337774,-97.74058,public,9.0,78757
+192,600,Langford Elementary School,Austin,TX,"2206 Blue Meadow Drive, 
+Austin, TX  78744",30.182083,-97.76337,public,7.0,78744
+193,554,Lanier High School,Austin,TX,"1201 Payton Gin Road, 
+Austin, TX  78758",30.360209,-97.70832,public,5.0,78758
+194,12101,Lasa High School,Austin,TX,"7309 Lazy Creek Drive, 
+Austin, TX  78724",30.313496,-97.65667,public,3.0,78724
+195,9128,Laura Welch Bush Elementary School,Austin,TX,"12600 Country Trails Lane, 
+Austin, TX  78732",30.366116,-97.89997,public,10.0,78732
+196,5887,Laurel Mountain Elementary School,Austin,TX,"10111 D-K Ranch Road, 
+Austin, TX  78759",30.413939,-97.78091,public,10.0,78759
+197,12100,Lbj High School,Austin,TX,"7309 Lazy Creek Drive, 
+Austin, TX  78724",30.313496,-97.65667,public,10.0,78724
+198,616,Leadership Academy,Austin,TX,"2515 South Congress Avenue, 
+Austin, TX  78704",30.235638,-97.75366,public,2.0,78704
+199,555,Lee Elementary School,Austin,TX,"3308 Hampton Road, 
+Austin, TX  78705",30.29305,-97.72763,public,,78705
+200,556,Linder Elementary School,Austin,TX,"2800 Metcalfe Road, 
+Austin, TX  78741",30.224209,-97.73794,public,8.0,78741
+201,5892,Live Oak Elementary School,Austin,TX,"8607 Anderson Mill Road, 
+Austin, TX  78729",30.45348,-97.771126,public,3.0,78729
+202,24804,Long-View Micro-School,Austin,TX,"1201 West 24th Street, 
+Austin, TX  78705",30.288166,-97.75077,private,6.0,78705
+203,25022,Magnolia Montessori For All,Austin,TX,"5100 Pecan Brook Drive, 
+Austin, TX  78724",30.317167,-97.65826,charter,,78724
+204,557,Maplewood Elementary School,Austin,TX,"3808 Maplewood Avenue, 
+Austin, TX  78722",30.293337,-97.714905,public,3.0,78722
+205,7749,Maranatha Christian Academy,Austin,TX,"8210 S 1st Street, 
+Austin, TX  78748",30.18099,-97.795044,private,4.0,78748
+206,558,Martin Middle School,Austin,TX,"1601 Haskell Street, 
+Austin, TX  78702",30.253086,-97.72987,public,,78702
+207,559,Mathews Elementary School,Austin,TX,"906 West Lynn Street, 
+Austin, TX  78703",30.278215,-97.760796,public,1.0,78703
+208,9148,Mcbee Elementary School,Austin,TX,"1101 West Braker Lane, 
+Austin, TX  78758",30.38325,-97.69106,public,8.0,78758
+209,560,Mccallum High School,Austin,TX,"5600 Sunshine Drive, 
+Austin, TX  78756",30.327484,-97.72887,public,7.0,78756
+210,5891,Mcneil High School,Austin,TX,"5720 McNeil Drive, 
+Austin, TX  78729",30.448587,-97.73333,public,7.0,78729
+211,607,Mendez Middle School,Austin,TX,"5106 Village Square Drive, 
+Austin, TX  78744",30.188675,-97.74306,public,7.0,78744
+212,562,Metz Elementary School,Austin,TX,"84 Robert Martinez Junior Street, 
+Austin, TX  78702",30.254284,-97.721725,public,1.0,78702
+213,620,Mills Elementary School,Austin,TX,"6201 Davis Lane, 
+Austin, TX  78749",30.210917,-97.8782,public,3.0,78749
+214,21331,Mr Darcy's Class,Austin,TX,"8805 Tara Lane, 
+Austin, TX  78737",30.232285,-97.91796,private,9.0,78737
+215,563,Murchison Middle School,Austin,TX,"3700 North Hills Drive, 
+Austin, TX  78731",30.353977,-97.75872,public,,78731
+216,5873,Noel Grisham Middle School,Austin,TX,"10805 School House Lane, 
+Austin, TX  78750",30.457403,-97.80668,public,7.0,78750
+217,564,Norman Elementary School,Austin,TX,"4001 Tannehill Lane, 
+Austin, TX  78721",30.278324,-97.67397,public,7.0,78721
+218,5412,Northwest Elementary School,Austin,TX,"14014 Thermal Drive, 
+Austin, TX  78728",30.431906,-97.67626,public,6.0,78728
+219,9147,Nyos - Magnolia Mccullough Campus,Austin,TX,"1605 Kramer Lane, 
+Austin, TX  78758",30.38466,-97.70277,charter,3.0,78758
+220,93,Nyos Charter School,Austin,TX,"12301 North Lamar Boulevard, 
+Austin, TX  78753",30.402246,-97.67847,charter,8.0,78753
+221,565,O Henry Middle School,Austin,TX,"2610 West 10th Street, 
+Austin, TX  78703",30.285492,-97.77376,public,8.0,78703
+222,566,Oak Hill Elementary School,Austin,TX,"6101 Patton Ranch Road, 
+Austin, TX  78735",30.237991,-97.858765,public,6.0,78735
+223,567,Oak Springs Elementary School,Austin,TX,"3601 Webberville Road, 
+Austin, TX  78702",30.271786,-97.70484,public,6.0,78702
+224,19725,Oakmont School,Austin,TX,"1510 Morrow St, 
+Austin, TX  78757",30.34799,-97.724556,private,3.0,78757
+225,568,Odom Elementary School,Austin,TX,"1010 Turtle Creek Boulevard, 
+Austin, TX  78745",30.20562,-97.78878,public,,78745
+226,11858,Odyssey School,Austin,TX,"4407 Red River Street, 
+Austin, TX  78751",30.304052,-97.71981,private,6.0,78751
+227,569,Ortega Elementary School,Austin,TX,"1135 Garland Avenue, 
+Austin, TX  78721",30.269997,-97.68428,public,,78721
+228,7808,Our Savior Lutheran School,Austin,TX,"1513 East Yager Lane, 
+Austin, TX  78753",30.386408,-97.65198,private,5.0,78753
+229,10792,Overton Elementary School,Austin,TX,"7201 Colony Loop Drive, 
+Austin, TX  78724",30.300186,-97.6367,public,,78724
+230,10791,Padron Elementary School,Austin,TX,"1111 West 6th Street, 
+Austin, TX  78703",30.272375,-97.756516,public,4.0,78703
+231,609,Palm Elementary School,Austin,TX,"7601 Dixie Drive, 
+Austin, TX  78744",30.164824,-97.743675,public,7.0,78744
+232,8076,Paragon Prep School,Austin,TX,"2001 West Koenig Lane, 
+Austin, TX  78756",30.333954,-97.73803,private,6.0,78756
+233,9472,Paredes Middle School,Austin,TX,"10100 South Mary Moore Searight Drive, 
+Austin, TX  78748",30.165659,-97.81159,public,,78748
+234,7992,Parkside Community School,Austin,TX,"3702 W. Slaughter Lane , 
+Austin, TX  78748",30.1856,-97.85356,private,4.0,78748
+235,5410,Parmer Lane Elementary School,Austin,TX,"1806 Parmer Lane, 
+Austin, TX  78727",30.418943,-97.70227,public,,78727
+236,9133,Patsy Sommer Elementary School,Austin,TX,"16200 Avery Ranch Boulevard, 
+Austin, TX  78717",30.504526,-97.75202,public,7.0,78717
+237,604,Patton Elementary School,Austin,TX,"6001 Westcreek Drive, 
+Austin, TX  78749",30.2318,-97.84553,public,10.0,78749
+238,19532,Pearson Ranch Middle,Austin,TX,"8901 Pearson Ranch Road, 
+Austin, TX  78717",30.496775,-97.75084,public,6.0,78717
+239,571,Pease Elementary School,Austin,TX,"1106 Rio Grande Street, 
+Austin, TX  78701",30.275291,-97.74803,public,,78701
+240,572,Pecan Springs Elementary School,Austin,TX,"3100 Rogge Lane, 
+Austin, TX  78723",30.303139,-97.676315,public,7.0,78723
+241,10795,Perez Elementary School,Austin,TX,"7500 South Pleasant Valley Road, 
+Austin, TX  78744",30.17085,-97.75624,public,5.0,78744
+242,8614,Phoenix Academy,Austin,TX,"400 West Live Oak Street, 
+Austin, TX  78704",30.24414,-97.75614,public,4.0,78704
+243,9142,Pickle Elementary School,Austin,TX,"1101 Wheatley Avenue, 
+Austin, TX  78752",30.333408,-97.693825,public,,78752
+244,573,Pillow Elementary School,Austin,TX,"3025 Crosscreek Drive, 
+Austin, TX  78757",30.369263,-97.73339,public,2.0,78757
+245,18849,Pioneer Crossing Elementary School,Austin,TX,"11300 Samsung Boulevard, 
+Austin, TX  78754",30.362078,-97.63998,public,4.0,78754
+246,574,Pleasant Hill Elementary School,Austin,TX,"6405 Circle South Road, 
+Austin, TX  78745",30.196213,-97.77649,public,6.0,78745
+247,5888,Pond Springs Elementary School,Austin,TX,"7825 Elkhorn Mountain Trail, 
+Austin, TX  78729",30.446201,-97.76417,public,5.0,78729
+248,2032,Popham Elementary School,Austin,TX,"7014 Elroy Road, 
+Austin, TX  78617",30.157845,-97.64396,public,5.0,78617
+249,8424,Praise Christian Academy,Austin,TX,"5800 E Martin Luther King Jr, 
+Austin, TX  78721",30.2861,-97.6676,private,3.0,78721
+250,20406,Premier High School At Lanier,Austin,TX,"1201 Payton Gin Road, 
+Austin, TX  78758",30.360209,-97.70832,charter,,78758
+251,20405,Premier High School At Travis,Austin,TX,"1211 East Oltorf Street, 
+Austin, TX  78704",30.233839,-97.743256,charter,1.0,78704
+252,19817,Primavera Montessori School,Austin,TX,"6405 Manchaca Rd., 
+Austin, TX  78745",30.207909,-97.804756,private,1.0,78745
+253,24423,Primavera Montessori School,Austin,TX,"1934 Berkeley Avenue, 
+Austin, TX  78745",30.208569,-97.80367,private,,78745
+254,5883,Purple Sage Elementary School,Austin,TX,"11801 Tanglebriar Trail, 
+Austin, TX  78750",30.457247,-97.82031,public,,78750
+255,12409,Rawson Saunders,Austin,TX,"2614A Exposition Boulevard, 
+Austin, TX  78703",30.301817,-97.765114,private,6.0,78703
+256,576,Reagan High School,Austin,TX,"7104 Berkman Drive, 
+Austin, TX  78752",30.324188,-97.69135,public,,78752
+257,7479,Redeemer Lutheran School,Austin,TX,"1500 West Anderson Lane, 
+Austin, TX  78757",30.352537,-97.72068,private,2.0,78757
+258,11519,Regents School Of Austin,Austin,TX,"3230 Travis Country Circle, 
+Austin, TX  78735",30.254488,-97.84532,private,,78735
+259,577,Reilly Elementary School,Austin,TX,"405 Denson Drive, 
+Austin, TX  78752",30.327883,-97.71982,public,,78752
+260,20704,Renaissance Academy,Austin,TX,"14401 Owen-Tech Boulevard, 
+Austin, TX  78728",30.434893,-97.67047,private,7.0,78728
+261,11838,Richards School For Young Women Leade,Austin,TX,"2206 Prather Lane, 
+Austin, TX  78704",30.236443,-97.788284,public,,78704
+262,578,Ridgetop Elementary School,Austin,TX,"5005 Caswell Avenue, 
+Austin, TX  78751",30.311796,-97.716255,public,9.0,78751
+263,5409,River Oaks Elementary School,Austin,TX,"12401 Scofield Farms Drive, 
+Austin, TX  78758",30.408642,-97.68686,public,5.0,78758
+264,11937,River Place Elementary School,Austin,TX,"6500 Sitio Del Rio Boulevard, 
+Austin, TX  78730",30.38982,-97.84521,public,5.0,78730
+265,18850,River Ridge Elementary School,Austin,TX,"12900 Tierra Grande Trail, 
+Austin, TX  78732",30.34612,-97.91629,public,8.0,78732
+266,8617,Rodriguez Elementary School,Austin,TX,"4400 Franklin Park Drive, 
+Austin, TX  78744",30.200659,-97.74725,public,10.0,78744
+267,598,Rosedale,Austin,TX,"2117 West 49th Street, 
+Austin, TX  78756",30.320051,-97.74019,public,2.0,78756
+268,11215,Rutledge Elementary School,Austin,TX,"11501 Staked Plains Drive, 
+Austin, TX  78717",30.497648,-97.7935,public,1.0,78717
+269,7293,Sacred Heart Catholic School,Austin,TX,"5911 Reicher Drive, 
+Austin, TX  78723",30.303,-97.6774,private,9.0,78723
+270,25080,Sadler Means Ywla,Austin,TX,"6401 North Hampton Drive, 
+Austin, TX  78723",30.313578,-97.68073,public,,78723
+271,11555,San Juan Diego Catholic High School,Austin,TX,"800 Herndon Lane, 
+Austin, TX  78704",30.240438,-97.763725,private,2.0,78704
+272,579,Sanchez Elementary School,Austin,TX,"73 San Marcos Street, 
+Austin, TX  78702",30.257992,-97.735054,public,,78702
+273,20136,Schoolhouse Academy,Austin,TX,"13740 Research Blvd., 
+Austin, TX  78750",30.45932,-97.794205,private,5.0,78750
+274,24673,Sci-Tech Preparatory,Austin,TX,"6405 South Interstate 35 Frontage Road, 
+Austin, TX  78744",30.191423,-97.767136,charter,,78744
+275,24441,Scotish Rite Dyslexia Center,Austin,TX,"12871 U.S. 183, 
+Austin, TX  78750",30.436186,-97.77224,private,3.0,78750
+276,11956,Serene Hills Elementary School,Austin,TX,"3322 Ranch Road 620 South, 
+Austin, TX  78738",30.327839,-97.96536,public,,78738
+277,8495,Settlement Home,Austin,TX,"1600 Payton Gin Road, 
+Austin, TX  78758",30.365156,-97.71341,charter,9.0,78758
+278,11575,Shoreline Christian School,Austin,TX,"15201 Burnet Road, 
+Austin, TX  78728",30.45918,-97.69389,private,1.0,78728
+279,580,Sims Elementary School,Austin,TX,"1203 Springdale Road, 
+Austin, TX  78721",30.27941,-97.6854,public,,78721
+280,20086,Skybridge Academy,Austin,TX,"13317 Fitzhugh Rd, 
+Austin, TX  78736",30.231865,-98.001045,private,3.0,78736
+281,8615,Small Middle School,Austin,TX,"4801 Monterey Oaks Boulevard, 
+Austin, TX  78749",30.233706,-97.842,public,,78749
+282,2033,Smith Elementary School,Austin,TX,"4209 Smith School Road, 
+Austin, TX  78744",30.195934,-97.71339,public,5.0,78744
+283,18787,Southwest Austin Middle School,Austin,TX,"4021 So. Loop 360, 
+Austin, TX  78704",30.2392,-97.79944,private,5.0,78704
+284,5877,Spicewood Elementary School,Austin,TX,"11601 Olson Drive, 
+Austin, TX  78750",30.444965,-97.80434,public,,78750
+285,7303,St Austin Catholic School,Austin,TX,"1911 San Antonio Street, 
+Austin, TX  78705",30.283016,-97.74282,private,10.0,78705
+286,20569,St Dominic Savio Catholic High School,Austin,TX,"9300 Neenah Avenue, 
+Austin, TX  78717",30.489943,-97.75919,private,,78717
+287,581,St Elmo El,Austin,TX,"600 West Saint Elmo Road, 
+Austin, TX  78745",30.222063,-97.77338,public,,78745
+288,10057,St Francis School,Austin,TX,"300 East Huntland Drive, 
+Austin, TX  78752",30.331245,-97.71006,private,6.0,78752
+289,7302,St Ignatius Martyr School,Austin,TX,"120 West Oltorf Street, 
+Austin, TX  78704",30.23927,-97.75429,private,,78704
+290,7305,St Louis School,Austin,TX,"2114 Saint Joseph Boulevard, 
+Austin, TX  78757",30.35219,-97.733,private,,78757
+291,7447,St Stephens Episcopal School,Austin,TX,"6500 Saint Stephens Drive, 
+Austin, TX  78746",30.331476,-97.815834,private,,78746
+292,7448,St. Andrew's Episcopal School,Austin,TX,"1112 W 31st St, 
+Austin, TX  78705",30.301983,-97.748276,private,,78705
+293,8428,St. Gabriel's Catholic School,Austin,TX,"2500 Wimberly Ln, 
+Austin, TX  78735",30.292027,-97.8712,private,,78735
+294,7755,St. Michael's Catholic Academy,Austin,TX,"3000 Barton Creek Blvd, 
+Austin, TX  78735",30.2864,-97.8749,private,,78735
+295,7495,St. Paul Lutheran School,Austin,TX,"3407 Red River Street, 
+Austin, TX  78705",30.29324,-97.72531,private,,78705
+296,7771,St. Theresas Catholic School,Austin,TX,"4311 Small Drive, 
+Austin, TX  78731",30.342485,-97.77419,private,,78731
+297,4260,Steiner Ranch Elementary School,Austin,TX,"4001 North Quinlan Park Road, 
+Austin, TX  78732",30.379328,-97.88424,public,,78732
+298,7816,Strickland School,Austin,TX,"P.O. Box 150413, 
+Austin, TX  78715",30.447,-97.749,private,9.0,78715
+299,582,Summitt Elementary School,Austin,TX,"12207 Brigadoon Lane, 
+Austin, TX  78727",30.418608,-97.71907,public,,78727
+300,12005,TNS Academy,Austin,TX,"3901 Shoal Creek Blvd., 
+Austin, TX  78756",30.3098,-97.7483,private,8.0,78756
+301,101,Texas Empowerment Academy,Austin,TX,"3613 Bluestein Drive, 
+Austin, TX  78721",30.272999,-97.6724,charter,,78721
+302,20006,Texas Empowerment Academy Elementary School,Austin,TX,"6414 North Hampton Drive, 
+Austin, TX  78723",30.314514,-97.68152,charter,7.0,78723
+303,9367,Texas School For The Blind,Austin,TX,"1100 West 45th Street, 
+Austin, TX  78756",30.314978,-97.73932,public,4.0,78756
+304,9369,Texas School For The Deaf,Austin,TX,"1102 South Congress Avenue, 
+Austin, TX  78704",30.253044,-97.75117,public,1.0,78704
+305,7789,The Children's School,Austin,TX,"2825 Hancock Drive, 
+Austin, TX  78731",30.327642,-97.7507,private,1.0,78731
+306,20007,The East Austin College Prep Acade,Austin,TX,"6002 Jain Lane, 
+Austin, TX  78721",30.26109,-97.682686,charter,,78721
+307,20402,The East Austin College Prep At Ml,Austin,TX,"5800 East Martin Luther King Junior Boulevard, 
+Austin, TX  78721",30.287785,-97.66676,charter,6.0,78721
+308,25244,The Excel Center,Austin,TX,"1015 Norwood Park Boulevard, 
+Austin, TX  78753",30.339088,-97.69408,charter,3.0,78753
+309,25102,The Excel Center (For Adults),Austin,TX,"1015 Norwood Park Boulevard, 
+Austin, TX  78753",30.339088,-97.69408,charter,,78753
+310,8109,The Isely School,Austin,TX,"2301 Shoal Creek Boulevard, 
+Austin, TX  78705",30.2874,-97.7519,private,,78705
+311,20796,The Joule School,Austin,TX,"3402 Little Elm Trail, 
+Austin, TX  78752",30.462997,-97.81732,private,,78752
+312,20119,The Keystone School,Austin,TX,"1701 N. Congress Avenue, 
+Austin, TX  78701",30.278719,-97.73881,private,,78701
+313,20124,The Magellan International School,Austin,TX,"7938 Great Northern Boulevard, 
+Austin, TX  78731",30.358206,-97.76095,private,,78731
+314,20137,The Magnolia School,Austin,TX,"2903 Ranch Road 620, 
+Austin, TX  78734",30.38985,-97.938255,private,,78734
+315,7559,The Oaks School,Austin,TX,"1407 W Stassney Lane, 
+Austin, TX  78745",30.2121,-97.7908,private,,78745
+316,20396,The Real Learning Academy,Austin,TX,"6405 South Interstate 35 Frontage Road, 
+Austin, TX  78744",30.191423,-97.767136,charter,,78744
+317,9929,Tnc Campus (Texas Neurorehabilitat,Austin,TX,"1106 West Dittmar Road, 
+Austin, TX  78745",30.18896,-97.8058,charter,3.0,78745
+318,18840,Travis County Day School,Austin,TX,"8011 Cameron Road, 
+Austin, TX  78754",30.335697,-97.68336,public,1.0,78754
+319,11475,Travis County State Jail,Austin,TX,"8101 Farm to Market 969, 
+Austin, TX  78724",30.278334,-97.64186,public,,78724
+320,585,Travis Heights Elementary School,Austin,TX,"2010 Alameda Drive, 
+Austin, TX  78704",30.24143,-97.74596,charter,,78704
+321,584,Travis High School,Austin,TX,"1211 East Oltorf Street, 
+Austin, TX  78704",30.233839,-97.743256,public,6.0,78704
+322,10662,Trinity Episcopal School of AU,Austin,TX,"3901 Bee Cave Road, 
+Austin, TX  78746",30.2815,-97.8086,private,3.0,78746
+323,25112,University High School,Austin,TX,"2007 University Avenue, 
+Austin, TX  78705",30.283306,-97.73917,charter,,78705
+324,10329,University Of Texas Elementary Charter School,Austin,TX,"2200 East 6th Street, 
+Austin, TX  78702",30.260305,-97.71761,charter,,78702
+325,9657,University of Texas at Austin High School,Austin,TX,"2901 N. IH35, 
+Austin, TX  78713",30.28,-97.74,public,5.0,78713
+326,2205,Valley View Elementary School,Austin,TX,"360 Loop Court, 
+Austin, TX  78746",30.302923,-97.83261,public,,78746
+327,19335,Vandegrift High School,Austin,TX,"9500 McNeil Drive, 
+Austin, TX  78750",30.397078,-97.824104,public,9.0,78750
+328,20730,Veritas Academy,Austin,TX,"Po Box 90517, 
+Austin, TX  78709",30.23,-97.85,private,8.0,78709
+329,20143,Veritas Academy,Austin,TX,"4220 Monterey Oaks Blvd., 
+Austin, TX  78749",30.23015,-97.83225,private,,78749
+330,24472,Victory Christian Center School,Austin,TX,"7625 South Interstate Highway 35, 
+Austin, TX  78752",30.336903,-97.698166,private,,78752
+331,11403,Wall Sp Prog,Austin,TX,"2515 Speedway, 
+Austin, TX  78712",30.289062,-97.736496,public,,78712
+332,586,Walnut Creek Elementary School,Austin,TX,"401 West Braker Lane, 
+Austin, TX  78753",30.379194,-97.68413,public,,78753
+333,593,Webb Middle School,Austin,TX,"601 East Saint Johns Avenue, 
+Austin, TX  78752",30.332413,-97.707405,public,3.0,78752
+334,20409,Webb Primary Center,Austin,TX,"601 East Saint Johns Avenue, 
+Austin, TX  78752",30.332413,-97.707405,public,2.0,78752
+335,5886,Wells Branch Elementary School,Austin,TX,"14650 Merrilltown Drive, 
+Austin, TX  78728",30.44641,-97.68799,public,3.0,78728
+336,25154,West Cypress Hills Elementary School,Austin,TX,"3322 Ranch Road 620 South, 
+Austin, TX  78738",30.327839,-97.96536,public,4.0,78738
+337,2207,West Ridge Middle School,Austin,TX,"9201 Scenic Bluff Drive, 
+Austin, TX  78733",30.302864,-97.88434,public,9.0,78733
+338,9661,Westlake Alternative School,Austin,TX,"601 Camp Craft Road, 
+Austin, TX  78746",30.278156,-97.81645,public,10.0,78746
+339,2204,Westlake High School,Austin,TX,"4100 Westbank Drive, 
+Austin, TX  78746",30.275679,-97.81373,public,,78746
+340,5414,Westview Middle School,Austin,TX,"1805 Scofield Lane, 
+Austin, TX  78727",30.416716,-97.689575,public,9.0,78727
+341,5884,Westwood High School,Austin,TX,"12400 Mellow Meadow Drive, 
+Austin, TX  78750",30.456322,-97.7977,public,4.0,78750
+342,611,Widen Elementary School,Austin,TX,"5605 Nuckols Crossing Road, 
+Austin, TX  78744",30.188713,-97.74008,public,9.0,78744
+343,587,Williams Elementary School,Austin,TX,"500 Mairo Street, 
+Austin, TX  78748",30.180973,-97.79151,public,1.0,78748
+344,588,Winn Elementary School,Austin,TX,"3500 Susquehanna Lane, 
+Austin, TX  78723",30.314882,-97.66498,public,4.0,78723
+345,589,Wooldridge Elementary School,Austin,TX,"1412 Norseman Terrace, 
+Austin, TX  78758",30.364952,-97.70985,public,3.0,78758
+346,590,Wooten Elementary School,Austin,TX,"1406 Dale Drive, 
+Austin, TX  78757",30.352917,-97.71915,public,5.0,78757
+347,591,Zavala Elementary School,Austin,TX,"310 Robert Martinez Junior Street, 
+Austin, TX  78702",30.258272,-97.71954,public,6.0,78702
+348,592,Zilker Elementary School,Austin,TX,"1900 Bluebonnet Lane, 
+Austin, TX  78704",30.252544,-97.77457,public,4.0,78704
+349,,,,,,,,,7.0,
