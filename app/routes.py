@@ -19,15 +19,18 @@ def index():
 
 @app.route('/population')
 def population():
+    """
+        returns all of the population only records
+    """
     print("---------------population-----------------")
     # Get the Data from mongodb
-    projects = models.retrieve_population_data()
-    json_projects = []
-    for project in projects:
-        json_projects.append(project)
-    json_projects = json.dumps(json_projects, default=json_util.default)
-    return json_projects
-    # return 'More to come!! - Population dump!'
+    items = models.retrieve_population_data()
+    json_items = []
+    for item in items:
+        json_items.append(item)
+    json_items = json.dumps(json_items, default=json_util.default)
+    return json_items
+
 
 # ###########################################################################
 # ###########################################################################
@@ -36,5 +39,12 @@ if __name__ == '__main__':
     app.run(debug=True)
 
 # insert_population_data(mongo)
+#insert_home_rental_data(mongo)
+# while (True):
+#     if(insert_home_rental_data(mongo)):
+#         break; 
+#     else:
+#         print("Trying again")
+# insert_home_rental_data(mongo)
 
-# from app import retrieve_population_data
+# insert_school_data("2018 Austin - High.csv", mongo.db.highschool)

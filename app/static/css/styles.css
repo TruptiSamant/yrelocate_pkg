@@ -107,6 +107,32 @@ select {
   animation-delay: 1.2s;
 }
 
+.jumbotron {
+  height: 50px;
+  padding-top: 0px;
+}
+.nav li {
+display: inline;
+}
+
+.jumbotron .container {
+margin-top: 0px;
+position: relative;
+}
+
+.jumbotron h1 {
+color: #456725;
+font-size: 48px;  
+font-family: 'Shift', sans-serif;
+font-weight: bold;
+}
+
+.jumbotron p {
+  padding: 20px;
+  margin: 0;
+  font-size: 20px;
+  color: #fff;
+}
 
 #map{
         height:600px;
