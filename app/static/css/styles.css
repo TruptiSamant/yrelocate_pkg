@@ -1,5 +1,6 @@
 
 @charset "UTF-8";
+/* CSS Document */
 
 * {
   box-sizing: border-box;
@@ -38,6 +39,7 @@
 }
 
 .navbar {
+  background-color: #2c3e50;
   padding: 10px;
   margin: 0;
 }
@@ -94,7 +96,9 @@ select {
   background-size: cover;
 }
 
+
 .hero h1 {
+
   
   font-size: 0.1rem;
   animation: title 1.2s forwards linear;
@@ -108,23 +112,23 @@ select {
 }
 
 .jumbotron {
-  height: 50px;
-  padding-top: 0px;
-}
+    height: 50px;
+    padding-top: 0px;
+  }
 .nav li {
-display: inline;
+  display: inline;
 }
 
 .jumbotron .container {
-margin-top: 0px;
-position: relative;
+  margin-top: 0px;
+  position: relative;
 }
 
 .jumbotron h1 {
-color: #456725;
-font-size: 48px;  
-font-family: 'Shift', sans-serif;
-font-weight: bold;
+  color: #456725;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
 }
 
 .jumbotron p {
@@ -135,8 +139,89 @@ font-weight: bold;
 }
 
 #map{
-        height:600px;
-    }
+    height: 900px;
+}
+
+.modal-content{
+max-width: 2000px;
+}
+
+.modal-body {
+  position: relative;
+  -webkit-box-flex: 1;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1rem;
+  opacity: .7;
+}
+
+.modal-backdrop {
+  background-color: transparent !important;
+}
+
+.bar {
+  fill: #5f4b12;
+}
+
+.bar:hover {
+  fill: brown;
+}
+
+.axis {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+.axis {
+  font: 10px sans-serif;
+  font-weight: 900;
+}
+
+.modal-title {
+  text-align: middle;
+  vertical-align: middle;
+  font-size: x-large;
+  font-stretch: extra-expanded;
+  font-style: oblique;
+  color: #d8172a;
+}
+
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+  background: transparent;
+  color: #333;
+  font-size: large;
+  font-family: fantasy;
+}
+
+.leaflet-popup-content-wrapper {
+    padding: .1px;
+    height: auto;
+    width: auto;
+}
+.leaflet-popup-content-wrapper, .leaflet-popup-tip {
+  background: transparent;
+  color: #333;
+  font-size: large;
+  font-family: fantasy;
+  box-shadow: 0 3px 14px rgba(0,0,0,0.4);
+} 
+
+#each-place-button {
+  margin: 20px;
+}
+.dropdown{
+  margin: 20px;
+}
+
 
 /* input placeholder color changes */
 .form-control::-webkit-input-placeholder {
@@ -178,6 +263,8 @@ font-weight: bold;
     animation: smaller-title 1.2s forwards linear;
   }
 }
+
+
 
 /* keyframe animations which will be used to animate the title */
 @keyframes title {
