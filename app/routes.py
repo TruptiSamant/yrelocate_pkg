@@ -31,6 +31,14 @@ def population():
     json_items = json.dumps(json_items, default=json_util.default)
     return json_items
 
+@app.route('/zip_geojson')
+def get_zip_geojson():
+    """
+    return zip code geojson
+    """
+    zip_geojson = models.retrieve_zip_geojson()
+    print(zip_geojson)
+    return zip_geojson
 
 # ###########################################################################
 # ###########################################################################
