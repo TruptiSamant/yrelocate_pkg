@@ -25,6 +25,9 @@ var map = L.map('map',{
   zoom: 4,
   center: [31.9686,-98.5795]
   });
+var mapboxUrl = 'https://api.mapbox.com/styles/v1/mapbox/dark-v9/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoidHJ1cHRpc2FtYW50IiwiYSI6ImNqb3ZxeTJ2eTFwamQzdHBpN2pxMWRncm0ifQ.lSg57pODMZLvUx2AhOwALQ'
+L.tileLayer(mapboxUrl).addTo(map);
+
 
 construct();
 
@@ -94,6 +97,15 @@ function successHandle(data){
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
 function plot(selText){
 
+    map.remove();
+    map = L.map('map',{ 
+      // maxBounds:maxUSBounds,
+      zoom: 4,
+      center: [31.9686,-98.5795]
+      });
+      var mapboxUrl = 'https://api.mapbox.com/styles/v1/mapbox/streets-v10/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoidHJ1cHRpc2FtYW50IiwiYSI6ImNqb3ZxeTJ2eTFwamQzdHBpN2pxMWRncm0ifQ.lSg57pODMZLvUx2AhOwALQ'
+      L.tileLayer(mapboxUrl).addTo(map);
+
   if (selText === "US"){
     dataSources = ['zipregions1', 'zipregions2', 'zipregions3'];
     var color = '#2b68a8'
@@ -110,39 +122,104 @@ function plot(selText){
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// function showAustinMap(){
+//   console.log("showAustinMap");
+
+//   map.setView([30.2672, -97.7431], 12)
+
+//   var accessToken = 'pk.eyJ1IjoidHJ1cHRpc2FtYW50IiwiYSI6ImNqb3ZxeTJ2eTFwamQzdHBpN2pxMWRncm0ifQ.lSg57pODMZLvUx2AhOwALQ';
+//   var id = 'streets-v9'
+//   var mapboxUrl1 = 'https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v10/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoidHJ1cHRpc2FtYW50IiwiYSI6ImNqb3ZxeTJ2eTFwamQzdHBpN2pxMWRncm0ifQ.lSg57pODMZLvUx2AhOwALQ'
+
+//   var osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+//      landUrl = 'https://{s}.tiles.mapbox.com/v3/osmbuildings.kbpalbpk/{z}/{x}/{y}.png';
+//     //  mapbox://styles/mapbox/satellite-streets-v10
+
+
+//   var osmMap = L.tileLayer(osmUrl, {minZoom: 10}),
+//       landMap = L.tileLayer(mapboxUrl1, {minZoom: 10});
+//       osmbuild = L.tileLayer(landUrl, {minZoom: 10});
+
+//   map.addLayer(osmMap);
+//   // map.addLayer(landMap);
+//   // osmMap.setView([30.2672, -97.7431], 18);
+//   // osmMap.setZoom(18)
+//   // console.log(map.getStyle().layers);
+//   var baseLayers = {
+//   "OSM Mapnik": osmMap,
+//   "Landscape": landMap,
+//   "Building": osmbuild
+//   };
+
+//   L.control.layers(baseLayers).addTo(map);
+
+//}
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 function showAustinMap(){
-  console.log("showAustinMap");
 
-  map.setView([30.2672, -97.7431], 12)
+  zoomm = map.getZoom();
+  if (map != undefined) {
+    console.log("remove")
+    map.remove();
+ }
+  mapboxgl.accessToken = 'pk.eyJ1IjoidHJ1cHRpc2FtYW50IiwiYSI6ImNqb3ZxeTJ2eTFwamQzdHBpN2pxMWRncm0ifQ.lSg57pODMZLvUx2AhOwALQ';
+  map = new mapboxgl.Map({
+      style: 'mapbox://styles/mapbox/streets-v10',
+      center: [ -97.7431, 30.2672],
+      zoom: zoomm,
+      pitch: 90,
+      bearing: -17.6,
+      container: 'map'
+  });
+  
+  // The 'building' layer in the mapbox-streets vector source contains building-height
+  // data from OpenStreetMap.
+  map.on('load', function() {
+      // Insert the layer beneath any symbol layer.
+      var layers = map.getStyle().layers;
+      console.log(layers)
+  
+      var labelLayerId;
+      for (var i = 0; i < layers.length; i++) {
+          if (layers[i].type === 'symbol' && layers[i].layout['text-field']) {
+              labelLayerId = layers[i].id;
+              break;
+          }
+      }
 
-  var accessToken = 'pk.eyJ1IjoidHJ1cHRpc2FtYW50IiwiYSI6ImNqb3ZxeTJ2eTFwamQzdHBpN2pxMWRncm0ifQ.lSg57pODMZLvUx2AhOwALQ';
-  var id = 'streets-v9'
-  var mapboxUrl1 = 'https://api.mapbox.com/styles/v1/mapbox/satellite-streets-v10/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoidHJ1cHRpc2FtYW50IiwiYSI6ImNqb3ZxeTJ2eTFwamQzdHBpN2pxMWRncm0ifQ.lSg57pODMZLvUx2AhOwALQ'
-
-  var osmUrl = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-     landUrl = 'https://{s}.tiles.mapbox.com/v3/osmbuildings.kbpalbpk/{z}/{x}/{y}.png';
-    //  mapbox://styles/mapbox/satellite-streets-v10
-
-
-  var osmMap = L.tileLayer(osmUrl, {minZoom: 10}),
-      landMap = L.tileLayer(mapboxUrl1, {minZoom: 10});
-      osmbuild = L.tileLayer(landUrl, {minZoom: 10});
-
-  map.addLayer(osmMap);
-  // map.addLayer(landMap);
-  // osmMap.setView([30.2672, -97.7431], 18);
-  // osmMap.setZoom(18)
-  // console.log(map.getStyle().layers);
-  var baseLayers = {
-  "OSM Mapnik": osmMap,
-  "Landscape": landMap,
-  "Building": osmbuild
-  };
-
-  L.control.layers(baseLayers).addTo(map);
-
+      map.zoomTo(15, {duration: 9000});
+      setTimeout(function(){ 
+        map.setStyle('mapbox://styles/mapbox/satellite-streets-v10')
+  
+        map.addLayer({
+            'id': '3d-buildings',
+            'source': 'composite',
+            'source-layer': 'building',
+            'filter': ['==', 'extrude', 'true'],
+            'type': 'fill-extrusion',
+            'minzoom': 15,
+            'paint': {
+                'fill-extrusion-color': '#bbb',
+    
+                // use an 'interpolate' expression to add a smooth transition effect to the
+                // buildings as the user zooms in
+                'fill-extrusion-height': [
+                    "interpolate", ["linear"], ["zoom"],
+                    15, 0,
+                    15.05, ["get", "height"]
+                ],
+                'fill-extrusion-base': [
+                    "interpolate", ["linear"], ["zoom"],
+                    15, 0,
+                    15.05, ["get", "min_height"]
+                ],
+                'fill-extrusion-opacity': .9
+            }
+        }, labelLayerId);
+    }, 9000);
+  });      
 }
-
   
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////
