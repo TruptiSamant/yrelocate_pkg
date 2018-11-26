@@ -70,7 +70,7 @@ def retrieve_population_data():
     print (result)
     return result
 
-def retrieve_zip_geojson
+# def retrieve_zip_geojson
 
 
 
