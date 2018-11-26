@@ -70,6 +70,9 @@ def retrieve_population_data():
     print (result)
     return result
 
+# def retrieve_zip_geojson
+
+
 
 def insert_home_rental_data(recreate_db = False):
     ''' reads the home and rental data from CSV and inserts

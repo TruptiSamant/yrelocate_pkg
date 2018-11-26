@@ -1,57 +1,38 @@
 {% extends "base.html" %}
 {% block content %}
 <div class="container">
-  <div class="row"> 
-    <div class="col-md-2">
-      <aside class="filters">
-        <div class="panel panel-default">
-          <div class="panel-heading">Filter Search</div>
-          <div class="panel-body">
-            <form>
-              <div class="form-group">
-                <ul class="list-group" id="filters">
-                  <li class="filter list-group-item">
-                    <label>choose your city</label>
-                    <select class="form-control" id="searchby" onchange= "getData(this.value)"  > 
-                      <option value="" selected disabled>Select City</option>
-                      <option value="Austin">Austin</option>
-                      <option value="Dallas">Dallas</option>
-                      <option value="Houston">Houston</option>
-                    </select>
-                  </li>
-                  <li class="filter list-group-item">
-                      <label>Housing Type</label>
-                      <select class="form-control" id="housesearch" onchange= "optionchenged(this.value)"  > 
-                          <option value="" selected disabled>Buy or Rent</option>
-                          <option value="Buy">Buy</option>
-                          <option value="Rent">Rent</option>
-                        </select>
-                        <label for="price">Enter max price</label>
-                        <input class="form-control" id="price" type="text" placeholder="$">
-                        <br>
-                        <label for="option">Check if Important</label>
-                        <div class="checkbox">
-                        <label><input type="checkbox" id="school" onclick="handlecheck()" value="">School</label>
-                      </div>
-                      <div class="checkbox">
-                          <label><input type="checkbox" id="night" value="">Night life</label>
-                        </div>
-                        <div class="checkbox">
-                            <label><input type="checkbox" id="shopping" value="">Shopping</label>
-                          </div>
-                  </li>
-                </ul>
-              </div>
-              <button id="filter-btn" type="submit" class="btn btn-default">Submit</button><br/>
-            </form>
+  <div class ="row">
+      <div class="col col-lg-2 col-md-2 col-sm-12">
+          <article class="description-content">     
+         </article>
+         <button type="button" id = "each-place-button" class="btn btn-warning" data-toggle="modal" data-target="#loadFormModal">Show Population</button>
+
+         <div class="dropdown">
+          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            US
+          </button>
+          <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+
           </div>
         </div>
-      </aside>
-    </div>
-    <div class="col-md-10">
-      <div id="map">
-      </div>         
-    </div>
+       </div>
+      <div class="col col-lg-10, col-md-10 col-sm-12">
+            <div id="map" ></div>
+            <div id='menu'>
+              <input id='basic' type='radio' name='rtoggle' value='basic' checked='checked'>
+              <label for='basic'>basic</label>
+              <input id='streets' type='radio' name='rtoggle' value='streets'>
+              <label for='streets'>streets</label>
+              <input id='bright' type='radio' name='rtoggle' value='bright'>
+              <label for='bright'>bright</label>
+              <input id='light' type='radio' name='rtoggle' value='light'>
+              <label for='light'>light</label>
+              <input id='dark' type='radio' name='rtoggle' value='dark'>
+              <label for='dark'>dark</label>
+              <input id='satellite' type='radio' name='rtoggle' value='satellite'>
+              <label for='satellite'>satellite</label>
+          </div>
+      </div>
   </div>
 </div>
 {% endblock %}
